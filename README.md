@@ -1,4 +1,4 @@
 # instance_segmentation
 
-this resposity is a plant of detedtron2，but contains much more networks。
+this resposity is an implementation of instance segmentation based on detedtron2。
 
